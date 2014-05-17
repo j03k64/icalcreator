@@ -1,0 +1,9 @@
+{
+    "name": "jpirkey/icalcreator",
+    "homepage": "https://github.com/jpirkey/icalcreator",
+    "type": "library",
+    "description": "PHP implementation of rfc2445/rfc5545 by Kjell-Inge Gustafsson kigkonsult",
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
