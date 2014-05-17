@@ -5,5 +5,8 @@
     "description": "PHP implementation of rfc2445/rfc5545 by Kjell-Inge Gustafsson kigkonsult",
     "require": {
         "php": ">=5.2.0"
+    },
+    "autoload": {
+        "classmap": [ "." ]
     }
 }
